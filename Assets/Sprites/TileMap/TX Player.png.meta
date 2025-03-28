@@ -112,10 +112,10 @@ TextureImporter:
       name: TX Player_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 69
-        width: 23
-        height: 46
+        x: 0
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -134,10 +134,10 @@ TextureImporter:
       name: TX Player_1
       rect:
         serializedVersion: 2
-        x: 37
-        y: 69
-        width: 23
-        height: 50
+        x: 32
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -156,10 +156,10 @@ TextureImporter:
       name: TX Player_2
       rect:
         serializedVersion: 2
-        x: 68
-        y: 69
-        width: 23
-        height: 47
+        x: 64
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -178,10 +178,10 @@ TextureImporter:
       name: TX Player_3
       rect:
         serializedVersion: 2
-        x: 98
-        y: 67
-        width: 29
-        height: 30
+        x: 0
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -196,11 +196,77 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: TX Player_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169645594df61e64fa10795f19db9288
+      internalID: 410162259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Player_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a045359ad4fb9b9459c96a421b34895b
+      internalID: -1380461009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Player_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b769055050434a640b2057930a97cbb8
+      internalID: -2016938118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 98fc5f5d25a177547be785bed2906f79
     internalID: 0
     vertices: []
     indices: 
@@ -214,6 +280,9 @@ TextureImporter:
       TX Player_1: -6957052691073287718
       TX Player_2: 2185052477942719528
       TX Player_3: -1844808789431545801
+      TX Player_4: 410162259
+      TX Player_5: -1380461009
+      TX Player_6: -2016938118
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
