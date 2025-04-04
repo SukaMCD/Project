@@ -1570,6 +1570,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 7
+  facingDirection: 1
   rb: {fileID: 2016265762}
   anim: {fileID: 2016265767}
 --- !u!95 &2016265767
